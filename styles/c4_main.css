@@ -4,6 +4,11 @@ body {
     font-size: 100%;
 }
 
+:root{
+	--global-color-1: #800000;
+
+}
+
 /* the styles for the header */
 header img {
 	float: left;
